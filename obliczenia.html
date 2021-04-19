@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+  <head>
+
+     <meta charset="utf-8">
+     <title>Stacja Paliw</title>
+
+     <meta name="description" content="Opis zawartości strony dla wyszukiwarek">
+     <meta name="keywords" content="słowa, kluczowe, opisujące, zawartość">
+     <meta name="author" content="Jan Programista">
+
+     <meta http-equiv="X-Ua-Compatible" content="IE=edge,chrome=1">
+     <link rel="stylesheet" href="styl3.css">
+     <script src="oblicz.js"></script>
+
+  </head>
+  <body>
+<div id="baner-lewy">
+      <h1>Stacja Paliw</h1>
+  </div>
+  <div id="baner-prawy">
+     <a href="stacja.html"> <img src="home.png"></a>
+      <a href="obliczenia.html"><img src="znak.png"></a>
+  </div>
+  <div id="blokglowny">
+     <h3>Oblicz koszt paliwa</h3>
+    
+     Rodzaj paliwa(1-benzyna , 2-olej napędowy)<br><input type="number" id="rodzaj" name="rodzaj"><br>
+     Ile litrów<br><input type="number" id="litr" name="litr"><br>
+     
+     <input type="button" value="Oblicz" name ="oblicz" id="oblicz" onclick="oblicz()">
+     
+      <div id="wynik"></div>
+    
+    
+  </div>
+  <div id="lewy">
+      <a href="kwerendy.txt" >Pobierz Kwerendy</a>
+  </div>
+  <div id="prawy">
+      <img src="samochod.png" alt="samochód">
+  </div>
+  <div id="stopka">
+      <p>Stronę opracował: Daniel </p>
+  </div>
+ 
+
+  </body>
+
+</html>
