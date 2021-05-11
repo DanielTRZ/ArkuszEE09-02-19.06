@@ -18,7 +18,6 @@
               tekst += " 0 ";
           }
            
-           wynik.innerHTML = tekst + "" + "zł";          
-      
+           wynik.innerHTML = tekst + "" + "zł";              
 }
     
