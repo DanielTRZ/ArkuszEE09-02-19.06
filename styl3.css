@@ -8,8 +8,7 @@ body{
     width: 30%;
     height: 200px;
     text-align: center;
-    float: left;
-    
+    float: left;   
 }
 #lewy{
     background-color: rgb(130, 69 ,85);
@@ -17,8 +16,7 @@ body{
     width: 30%;
     height: 200px;
     text-align: center;
-    float: left;
-    
+    float: left;    
 }
 #baner-prawy{
     background-color: rgb(130, 69 ,85);
@@ -26,8 +24,7 @@ body{
     width: 70%;
     height: 200px;
     text-align: center;
-    float: left;
-    
+    float: left;   
 }
 #prawy{
     background-color: rgb(130, 69 ,85);
@@ -35,8 +32,7 @@ body{
     width: 70%;
     height: 200px;
     text-align: center;
-    float: left;
-    
+    float: left;   
 }
 #blokglowny{
     background-color: rgb(240,234,266);
@@ -45,8 +41,7 @@ body{
 }
 #stopka{
     background-color: rgb(240,234,266);
-    padding:  120px;
-   
+    padding:  120px;   
 }
 tr td {
     border: solid 1px rgb(130,69,85);
@@ -63,7 +58,6 @@ tr{
     color: rgb(130,69,85);
     padding: 10px;
 }
-
 #kw{
     color: rgb(240,234,226);
 }
