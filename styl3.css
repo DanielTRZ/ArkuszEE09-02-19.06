@@ -43,7 +43,7 @@ background-color: rgb(240,234,266);
     padding:  120px;   
 }
 tr td {
-    border: solid 1px rgb(130,69,85);
+border: solid 1px rgb(130,69,85);
     color: rgb(130,69,85);
     padding: 10px;
 }
