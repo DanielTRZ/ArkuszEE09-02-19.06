@@ -6,7 +6,7 @@ var wynik = document.getElementById("wynik");
 var ilelitrow = document.getElementById("litr").value;
 var tekst = "Koszt paliwa wynosi: ";   
           
-         if(rodzajpaliwa1 == 1){
+  if(rodzajpaliwa1 == 1){
               
               tekst += ilelitrow * 4 ;
           }
