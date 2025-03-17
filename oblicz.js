@@ -1,5 +1,5 @@
 
-      function oblicz(){
+function oblicz(){
           
            var rodzajpaliwa1 = document.getElementById("rodzaj").value;
            var wynik = document.getElementById("wynik");
