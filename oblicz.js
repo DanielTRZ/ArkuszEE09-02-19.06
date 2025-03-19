@@ -12,7 +12,7 @@ tekst += ilelitrow * 4 ;
 }
 else if(rodzajpaliwa1 == 2){
               
-          tekst += ilelitrow * 3.5 ;
+tekst += ilelitrow * 3.5 ;
           }
           else{
               tekst += " 0 ";
