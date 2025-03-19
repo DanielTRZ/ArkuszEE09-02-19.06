@@ -8,7 +8,7 @@ var tekst = "Koszt paliwa wynosi: ";
           
 if(rodzajpaliwa1 == 1){
               
-              tekst += ilelitrow * 4 ;
+          tekst += ilelitrow * 4 ;
           }
           else if(rodzajpaliwa1 == 2){
               
