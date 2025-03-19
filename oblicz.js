@@ -10,7 +10,7 @@ if(rodzajpaliwa1 == 1){
               
 tekst += ilelitrow * 4 ;
 }
-          else if(rodzajpaliwa1 == 2){
+else if(rodzajpaliwa1 == 2){
               
               tekst += ilelitrow * 3.5 ;
           }
