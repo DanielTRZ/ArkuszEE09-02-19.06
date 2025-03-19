@@ -14,7 +14,7 @@ else if(rodzajpaliwa1 == 2){
               
 tekst += ilelitrow * 3.5 ;
 }
-          else{
+else{
               tekst += " 0 ";
           }
            
