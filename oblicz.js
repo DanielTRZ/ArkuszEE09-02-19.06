@@ -16,7 +16,7 @@ tekst += ilelitrow * 3.5 ;
 }
 else{
 tekst += " 0 ";
- }
+}
            
            wynik.innerHTML = tekst + "" + "zł";              
 }
